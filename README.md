@@ -4,7 +4,7 @@
 - **Location:** East Lansing, MI
 - **Email:** kapadiasoami@gmail.com
 - **LinkedIn:** [Soami Kapadia LinkedIn](https://www.linkedin.com/in/soamikapadia)
-- **GitHub:** [Soami's GitHub](https://github.com/soamikapadia)
+- **GitHub:** [Soami's GitHub](https://github.com/skap3214)
 
 ## Education
 **Michigan State University**  
